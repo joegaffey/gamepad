@@ -21,7 +21,6 @@ void setup() {
   Joystick.setYAxisRange(1024, 0);
 }
 
-
 // Last state of the button
 int lastButtonState[9] = {0,0,0,0,0,0,0,0,0};
 
